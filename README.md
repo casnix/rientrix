@@ -1,4 +1,4 @@
 # rientrix
 The matrix kernel
 
-// More information coming soon // 
+Development ongoing.  Look to some of the repositories for EE354 to see the roots of some code to be used in this kernel.
